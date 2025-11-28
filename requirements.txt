@@ -2,4 +2,4 @@ aiogram
 python-dotenv
 loguru
 apscheduler
-jwt
+pyjwt
