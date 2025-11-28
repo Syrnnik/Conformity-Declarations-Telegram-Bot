@@ -1,5 +1,5 @@
-from callbacks import example
+from callbacks import search
 
 all_callback_routers = [
-    example.router
+    search.router,
 ]
